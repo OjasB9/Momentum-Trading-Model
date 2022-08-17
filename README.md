@@ -1,5 +1,6 @@
 # Momentum-Trading-Model
 Built a customizable pipeline for momentum-based stock trading
+
 Impact: Saves computational time & suitable for both static/dynamic datasets
 # Basic Idea
 Momentum investing is a trading strategy in which investors buy securities that are rising and sell them when they look to have peaked.
